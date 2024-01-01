@@ -1,0 +1,19 @@
+name: Antho-Tpa
+version: '${project.version}'
+main: com.antho.anthotpa.Antho_Tpa
+api-version: '1.19'
+commands:
+  tpa:
+    description: "teleport request"
+    permission: anthotpa.use
+    permission-message: you do not have permission to use /tpa!
+  tpy:
+    description: "teleport request"
+    permission-message: you do not have permission to accept tp requests!
+    permission: anthotpa.accept
+
+permissions:
+  anthotpa.use:
+    default: true
+  anthotpa.accept:
+    default: true

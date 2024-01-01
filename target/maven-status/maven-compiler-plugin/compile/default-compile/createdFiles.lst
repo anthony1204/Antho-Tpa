@@ -1,0 +1,6 @@
+com\antho\anthotpa\commands\TpaCommand.class
+com\antho\anthotpa\commands\tabcompleter.class
+com\antho\anthotpa\Antho_Tpa.class
+com\antho\anthotpa\TpaManager.class
+com\antho\anthotpa\commands\AcceptCommand.class
+com\antho\anthotpa\TpaRequest.class
